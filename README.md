@@ -1,6 +1,6 @@
 # robosys-apriltag
 
-***Note:*** This tutorial is based heavily on [this one by Automatic Addison](https://automaticaddison.com/working-with-ros-and-opencv-in-ros-noetic/).
+***Note:*** This tutorial is based heavily on <a href="https://automaticaddison.com/working-with-ros-and-opencv-in-ros-noetic/" target="_blank">this one by Automatic Addison</a>.
 
 ## Instructions
 
